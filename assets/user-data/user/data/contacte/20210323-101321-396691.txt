@@ -1,5 +1,0 @@
-: Octavi
-: Fornés
-: octavi@fornes.cat
-: 'Test, test, test,'
-

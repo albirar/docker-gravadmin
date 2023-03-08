@@ -1,5 +1,0 @@
-nom: vickym@intergotelecom.com
-cognoms: vickym@intergotelecom.com
-email: vickym@intergotelecom.com
-missatge: "Hello there, \r\n \r\nThis is Vicky from SMS.to, \r\n \r\nAs a licensed telecom company we can offer you unbeatable prices for SMS messaging in the United Kingdom and internationally. \r\n \r\nWe are having a special offer this month for new customers, \r\n \r\nCan you point me to the person responsible for marketing to discuss and share my special offer? \r\n \r\n \r\nVicky Manoleli \r\nSenior Account Manager \r\nsales@sms.to | vicky@sms.to \r\nhttp://www.sms.to/ \r\n+44 8008085314 \r\n+30 211 198 5466 \r\n+357 22 000 522 \r\n+356 277 610 22 \r\n+1 (914) 340-0700 \r\nSMS.to by Intergo Telecom Ltd"
-

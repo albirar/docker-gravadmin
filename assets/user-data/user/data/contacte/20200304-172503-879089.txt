@@ -1,5 +1,0 @@
-nom: scfci@consultant.com
-cognoms: scfci@consultant.com
-email: scfci@consultant.com
-missatge: "Hello! \r\n \r\nHope you don't mind the message. I was hoping to email in and introduce myself. My name is Jake and I work directly for SCFCI. SCFCI is one of the UKs leading debt collection specialists: \r\n \r\n- We help businesses recover non-payers \r\n- We do not charge upfront fees \r\n- B2B only \r\n- On average we collect within 6 days \r\n- Inhouse legal team \r\n- Get a free quote online \r\n \r\nThe bad debt rate in the UK is increasing massively year on year. I wanted to contact you to see if we required any collection assistance. You can get a free, no obligation quote here: \r\n \r\nhttp://www.scfci.co.uk/ \r\n \r\nPlease note only collect for businesses, not individuals. \r\n \r\nYours faithfully, \r\n \r\nJake Meadows"
-

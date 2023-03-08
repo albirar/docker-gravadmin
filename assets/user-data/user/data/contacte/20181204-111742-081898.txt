@@ -1,5 +1,0 @@
-nom: asdsad
-cognoms: sadsa
-email: asdsad@powepoew.com
-missatge: asdsadsad
-

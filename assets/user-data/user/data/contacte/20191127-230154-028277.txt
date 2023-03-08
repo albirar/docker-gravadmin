@@ -1,5 +1,0 @@
-nom: g1pedia@yandex.com
-cognoms: g1pedia@yandex.com
-email: g1pedia@yandex.com
-missatge: "Share knowledge, information and socialize using G1Pedia.com. The Open Encyclopedia, made by people like you. \r\n \r\nhttps://www.G1pedia.com. \r\n \r\nCreate an account today, it's free \r\n \r\n \r\nP.S \r\nThis message was sent for the attention of the Webmaster \r\nFrom \r\nhttps://www.KingDennisG.com"
-

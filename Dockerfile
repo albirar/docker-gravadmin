@@ -47,9 +47,11 @@ COPY assets/configs/php.ini /etc/php81/conf.d/custom.ini
 RUN mkdir /etc/supervisor.d/
 COPY assets/configs/supervisord.conf /etc/supervisor.d/supervisord.conf
 
+## The gravadmin content
+COPY assets/grav-admin /var/www/html
 
 # Expose the port nginx is reachable on
-EXPOSE 8080
+EXPOSE 80
 
 RUN chown -R nginx:nginx /var/www/html /run /var/lib/nginx /var/log/nginx
 

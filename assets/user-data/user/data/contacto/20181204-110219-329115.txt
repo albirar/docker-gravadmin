@@ -1,5 +1,0 @@
-nom: asd
-cognoms: asd
-email: wqewqe@weqwqe.cat
-missatge: asdasd
-

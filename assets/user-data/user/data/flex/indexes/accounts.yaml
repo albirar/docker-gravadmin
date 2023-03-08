@@ -1,9 +1,0 @@
-version: '1.2'
-timestamp: 1678269013
-count: 1
-index:
-  admin:
-    storage_key: admin
-    storage_timestamp: 1678269013
-    key: admin
-    email: octavi@fornes.cat

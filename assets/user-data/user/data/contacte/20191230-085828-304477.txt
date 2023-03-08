@@ -1,5 +1,0 @@
-nom: sonza85@mail.ru
-cognoms: sonza85@mail.ru
-email: sonza85@mail.ru
-missatge: 'Узнайте на сайте'
-

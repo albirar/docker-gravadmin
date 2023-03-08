@@ -1,5 +1,0 @@
-nom: alltheloans@mail.com
-cognoms: alltheloans@mail.com
-email: alltheloans@mail.com
-missatge: "Hello, \r\n \r\nI hope you are well. \r\n \r\nWe've just launched a new product. Our flexible business loan means small businesses (limited companies only) can get instantly approved for a business loan of up to ?15,000. A few benefits below: \r\n \r\n- Documentation not required (no accounts or bank statements) \r\n- Instant approval \r\n- Same day payout (funds can be in your account in less than 2 hrs) \r\n- No fees \r\n- Maximum ?15k \r\n- No early repayment charge \r\n- Rates from 2% \r\n- Unsecured loan, available for homeowners and tenants. \r\n \r\nSound good? To apply please visit http://www.alltheloans.co.uk/flexi \r\n \r\nKind regards, \r\n \r\nBen Greenough, \r\nLoan Advisor \r\n \r\nAllTheLoans"
-

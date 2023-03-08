@@ -1,5 +1,0 @@
-nom: abl@execs.com
-cognoms: abl@execs.com
-email: abl@execs.com
-missatge: "Hello, \r\n \r\nHope you are well. Last Monday a new client applied for ?100,000 unsecured business loan. By Tuesday morning the funds had landed in their account. The rate for this deal was just 4%. We are a business loan provider specifically for the small business market. \r\n \r\nCan we help your business? Find out more, check your eligibility online in just 20-seconds. \r\n \r\nhttps://www.approvedbusinessloans.co.uk/ \r\n \r\nHave a great day! \r\n \r\nApproved Business Loans \r\n(UK Team)"
-

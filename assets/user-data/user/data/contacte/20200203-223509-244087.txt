@@ -1,5 +1,0 @@
-nom: fundermode@financier.com
-cognoms: fundermode@financier.com
-email: fundermode@financier.com
-missatge: "Hello, \r\n \r\nI hope you are well. We've just lowered the rates on our unsecured business loans to 1.8%! \r\n \r\nOur loans are completely unsecured and are designed for small and mid sized companies. Eight out of ten companies are eligible and funds can be released as soon as 3-hours! \r\n \r\nInterested? Check your eligibility online, it takes less than 30-seconds. Go to https://www.fundermode.com to find out more. \r\n \r\nHave a great day, hope to help you soon! \r\n \r\nRegards \r\n \r\nCharlotte"
-

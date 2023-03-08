@@ -1,5 +1,0 @@
-nom: filov24@thefmail.com
-cognoms: filov24@thefmail.com
-email: filov24@thefmail.com
-missatge: "Привет! \r\n \r\nИскал информацию на многих сайтах, до тех пор, пока  не попался вот этот ресурс: <a href=\"https://zordelectro.ru/nastrojka-chastotnogo-preobrazovatelja-altivar-71/\">Настройка частотного преобразователя altivar 71</a> . \r\nДля моих знакомых эта информация оказалась очень полезной. \r\nУспехов всем!"
-

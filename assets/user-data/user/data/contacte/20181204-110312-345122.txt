@@ -1,5 +1,0 @@
-nom: asdsad
-cognoms: wqewqewq
-email: assad@powpw.com
-missatge: casdadad
-

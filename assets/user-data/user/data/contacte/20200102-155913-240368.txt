@@ -1,5 +1,0 @@
-nom: alltheloans@financier.com
-cognoms: alltheloans@financier.com
-email: alltheloans@financier.com
-missatge: "Hello, \r\n \r\nHappy New Year! I work for all the loans. We issue business loans to SMEs in the UK. \r\n \r\nWe provide loans from 10k to 600k at rates as low as 2.1% pa. There are no early repayment charges and you can repay the loan over 1 to 5 years. \r\n \r\nIs this something we coukd help your business with? You can check your eligibility in just a few seconds at https://www.alltheloans.co.uk \r\n \r\nHope to hear from you soon! \r\n \r\nRegards, \r\n \r\nGeoff"
-

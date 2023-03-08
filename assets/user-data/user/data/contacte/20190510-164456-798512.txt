@@ -1,5 +1,0 @@
-nom: enquiry@b2bgig.com
-cognoms: enquiry@b2bgig.com
-email: enquiry@b2bgig.com
-missatge: "B2Bgig is a new listing service that connects providers of business services to users of business services. \r\n \r\nWe are currently offering a limited introductory discount that allows you to purchase a listing on our site for as little as 2.50 UK Pounds per month. \r\n \r\nWant to find out more? Please visit this link: https://www.b2bgig.com/index.php/add-a-listing/"
-

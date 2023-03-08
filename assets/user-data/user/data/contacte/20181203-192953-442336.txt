@@ -1,5 +1,0 @@
-nom: asd
-cognoms: asd
-email: asd@asd.com
-missatge: asddsadsadsad
-
