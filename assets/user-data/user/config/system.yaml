@@ -1,5 +1,6 @@
 absolute_urls: false
 timezone: Europe/Madrid
+default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
@@ -34,6 +35,8 @@ home:
   hide_in_urls: false
 pages:
   type: regular
+  dirs:
+    - 'page://'
   theme: brilliant-resume
   order:
     by: default
@@ -81,9 +84,9 @@ pages:
   last_modified: true
   etag: true
   vary_accept_encoding: true
-  redirect_default_route: false
   redirect_default_code: '302'
   redirect_trailing_slash: true
+  redirect_default_route: false
   ignore_files:
     - .DS_Store
   ignore_folders:
@@ -113,9 +116,10 @@ cache:
   allow_webserver_gzip: false
   redis:
     socket: null
+    password: null
+    database: null
     server: null
     port: null
-    password: null
   memcache:
     server: null
     port: null
@@ -129,6 +133,8 @@ twig:
   autoescape: false
   undefined_functions: true
   undefined_filters: true
+  safe_functions: {  }
+  safe_filters: {  }
   umask_fix: false
 assets:
   css_pipeline: false
@@ -140,8 +146,12 @@ assets:
   js_pipeline: false
   js_pipeline_include_externals: true
   js_pipeline_before_excludes: true
+  js_module_pipeline: false
+  js_module_pipeline_include_externals: true
+  js_module_pipeline_before_excludes: true
   js_minify: true
   enable_asset_timestamp: false
+  enable_asset_sri: false
   collections:
     jquery: 'system://assets/jquery/jquery-2.x.min.js'
 errors:
@@ -151,6 +161,7 @@ log:
   handler: file
   syslog:
     facility: local6
+    tag: grav
 debugger:
   enabled: false
   provider: clockwork
@@ -165,8 +176,18 @@ images:
   debug: false
   auto_fix_orientation: false
   seofriendly: false
+  cls:
+    auto_sizes: false
+    aspect_ratio: false
+    retina_scale: 1
   defaults:
     loading: auto
+  watermark:
+    image: 'system://images/watermark.png'
+    position_y: center
+    position_x: center
+    scale: 33
+    watermark_all: false
 media:
   enable_media_timestamp: false
   unsupported_inline_types: null
@@ -180,19 +201,30 @@ session:
   name: grav-site
   uniqueness: path
   secure: false
+  secure_https: true
   httponly: true
   samesite: Lax
   split: true
+  domain: null
   path: null
 gpm:
   releases: stable
+  official_gpm_only: true
   proxy_url: null
   method: auto
   verify_peer: true
-  official_gpm_only: true
+http:
+  method: auto
+  enable_proxy: true
+  proxy_url: null
+  proxy_cert_path: null
+  concurrent_connections: 5
+  verify_peer: true
+  verify_host: true
 accounts:
   type: regular
   storage: file
+  avatar: gravatar
 flex:
   cache:
     index:

@@ -1,6 +1,7 @@
 <?php
 namespace Grav\Plugin;
 
+use Composer\Autoload\ClassLoader;
 use Grav\Common\Data\Data;
 use Grav\Common\Plugin;
 use Grav\Plugin\Email\Email;
@@ -28,15 +29,21 @@ class EmailPlugin extends Plugin
     }
 
     /**
+     * @return ClassLoader
+     */
+    public function autoload(): ClassLoader
+    {
+        return require __DIR__ . '/vendor/autoload.php';
+    }
+
+    /**
      * Initialize emailing.
      */
     public function onPluginsInitialized()
     {
-        require_once __DIR__ . '/vendor/autoload.php';
-
         $this->email = new Email();
 
-        if ($this->email->enabled()) {
+        if ($this->email::enabled()) {
             $this->grav['Email'] = $this->email;
         }
     }
@@ -91,7 +98,8 @@ class EmailPlugin extends Plugin
             case 'email':
                 // Prepare Twig variables
                 $vars = array(
-                    'form' => $form
+                    'form' => $form,
+                    'page' => $this->grav['page']
                 );
 
                 // Copy files now, we need those.
@@ -159,8 +167,14 @@ class EmailPlugin extends Plugin
             }
         }
 
+        //fire event to apply optional signers
+        $this->grav->fireEvent('onEmailMessage', new Event(['message' => $message, 'params' => $params, 'form' => $form]));
+
         // Send e-mail
         $this->email->send($message);
+
+        //fire event after eMail was sent
+        $this->grav->fireEvent('onEmailSent', new Event(['message' => $message, 'params' => $params, 'form' => $form]));
     }
 
     protected function isAssocArray(array $arr)

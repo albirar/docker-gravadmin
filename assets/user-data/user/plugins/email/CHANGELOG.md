@@ -1,10 +1,46 @@
+# v3.2.0
+## 03/28/2022
+
+1. [](#new)
+    * Require **Grav 1.7.32** and **Form 6.0.0**
+1. [](#improved)
+    * Added access email message object inside the twig template file
+2. [](#bugfix)
+    * Fixed twig not being initialized when building an email message
+
+# v3.1.5
+## 01/03/2022
+
+1. [](#improved)
+   * Updated to Swiftmailer `v6.3.0` with PHP 8.1 compatibility [#157](https://github.com/getgrav/grav-plugin-email/issues/157)
+
+# v3.1.4
+## 11/16/2021
+
+1. [](#improved)
+    * Added second parameter to `Email::send()` to get failed recipients
+
+# v3.1.3
+## 07/19/2021
+
+1. [](#improved)
+   * Pass page variable to processed forms [#141](https://github.com/getgrav/grav-plugin-email/pull/141)
+   * Email configuration available to templates [#152](https://github.com/getgrav/grav-plugin-email/pull/152)
+   * New Event after eMail was sent [#151](https://github.com/getgrav/grav-plugin-email/pull/151)
+
+# v3.1.2
+## 04/06/2021
+
+1. [](#new)
+    * Added new `onEmailMessage` event to make object available for editing [#150](https://github.com/getgrav/grav-plugin-email/pull/150)
+
 # v3.1.1
 ## 01/31/2021
 
 1. [](#improved)
-   * Latest vendor updates including SwiftMailer `6.2.5`
-   * Updated CLI commands
-   * Minor code cleanup 
+    * Latest vendor updates including SwiftMailer `6.2.5`
+    * Updated CLI commands
+    * Minor code cleanup 
 
 # v3.1.0
 ## 12/02/2020
