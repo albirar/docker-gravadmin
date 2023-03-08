@@ -1,6 +1,6 @@
 DOCKER_USERNAME ?= octavifornescat
 APPLICATION_NAME ?= gravadmin
-TAG ?= 1.1
+TAG ?= 1.2
 
 content:
 	rm -Rf assets/grav-admin

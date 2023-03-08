@@ -18,6 +18,7 @@ The grav-cms installed are ready to use, with the first step for create admin us
 
 ## Versions
 
+* 1.2 Amend healthy test
 * 1.1 Remove user from fpm-pool
 * 1.0 Initial release
 
