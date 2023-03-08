@@ -16,6 +16,11 @@ Use the `Makefile` to build, tag and push the image, only need to change the var
 
 The grav-cms installed are ready to use, with the first step for create admin user.
 
+## Versions
+
+* 1.1 Remove user from fpm-pool
+* 1.0 Initial release
+
 ## Volumes
 
 The significant volumes are:
