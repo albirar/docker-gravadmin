@@ -1,0 +1,5 @@
+nom: yourmail@gmail.com
+cognoms: yourmail@gmail.com
+email: yourmail@gmail.com
+missatge: 'Hello. And Bye.'
+

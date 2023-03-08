@@ -1,0 +1,5 @@
+nom: approvedbizloans@mail.com
+cognoms: approvedbizloans@mail.com
+email: approvedbizloans@mail.com
+missatge: "Good morning, \r\n \r\nI hope you are well and getting back to business. \r\n \r\nLots of small businesses are currently looking for finance and we can help. We offer flexible financing solutions with rates starting from just 4%. Can we approve your application today? Facilities from ?5k to ?400k available for a variety of purposes. \r\n \r\nYou can get a quick quotation or check eligibility here: \r\n \r\nhttps://www.approvedbusinessloans.co.uk/ \r\n \r\nThanks, \r\n \r\nRoger Smith \r\nApproved Business Loans"
+

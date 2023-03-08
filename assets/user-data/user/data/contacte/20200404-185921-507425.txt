@@ -1,0 +1,5 @@
+nom: vadronov@ukr.net
+cognoms: vadronov@ukr.net
+email: vadronov@ukr.net
+missatge: 'http://www.fc-lubertsy.ru/championat.html'
+

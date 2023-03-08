@@ -1,0 +1,5 @@
+nom: noms
+cognoms: cognoms
+email: emails@server.cat
+missatge: Missatgesaaaa
+

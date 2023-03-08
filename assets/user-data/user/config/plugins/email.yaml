@@ -1,0 +1,30 @@
+enabled: true
+from: webmaster@albirar.cat
+from_name: Albirar
+to: ofornes@albirar.cat
+to_name: 'Octavi Fornés'
+queue:
+  enabled: false
+  flush_frequency: '* * * * *'
+  flush_msg_limit: 10
+  flush_time_limit: 100
+mailer:
+  engine: smtp
+  smtp:
+    server: smtp-relay.sendinblue.com
+    port: 587
+    encryption: none
+    user: webmaster@albirar.cat
+    password: FdpGfDCXJQ4L2h9Z
+    auth_mode: null
+  sendmail:
+    bin: '/usr/sbin/sendmail -bs'
+content_type: text/html
+debug: true
+charset: null
+cc: null
+cc_name: null
+bcc: null
+reply_to: null
+reply_to_name: null
+body: null

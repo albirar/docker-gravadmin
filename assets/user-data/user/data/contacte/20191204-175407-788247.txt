@@ -1,0 +1,5 @@
+nom: fm345@protonmail.com
+cognoms: fm345@protonmail.com
+email: fm345@protonmail.com
+missatge: "Hello, \r\n \r\nI work for China Capital. We offer a free service for UK companies who are seeking investment. We have over 2000 registered investors in China who are looking to invest in either startup or existing companies in the United Kingdom. \r\n \r\nOur service enables companies with potential to raise between ?100k and ?1m in a number of weeks for a minority equity stake. \r\n \r\nWe don't charge companies anything for our service. We make our money from our investors in China. \r\n \r\nI wanted to reach out and see if you were considering raising capital for your existing business or for a new startup. \r\n \r\nOur website is www.chinacap.co.uk \r\n \r\nHope to work with you soon. \r\n \r\nRegards \r\n \r\nDavid \r\n \r\nChina Capital \r\nhttps://www.chinacap.co.uk/"
+

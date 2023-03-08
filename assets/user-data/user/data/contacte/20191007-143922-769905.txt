@@ -1,0 +1,5 @@
+nom: notification@usa-lottery.com
+cognoms: notification@usa-lottery.com
+email: notification@usa-lottery.com
+missatge: "Dear winner , \r\n \r\nYour company email has emerged on our Lottery prize winner database in the month of October 2019 USA online email sweepstakes (Lottery) exhibition programs. \r\n \r\nYou are required to contact our approved ( Europe ) regional payment officer stated below for your lotto prize fund release within 14 working days quoting your winning identification ref number for payment processing: USA-SWEP-10-57655-19. \r\n \r\nDr. Dennis Abraham \r\nEmail: info.head@europe.com \r\nD Tel:+447937620356 \r\n \r\nCongratulations once again while we look Forward to processing your winning prize to you . \r\n \r\nYours truly , \r\n \r\n \r\nMr. Ibeh Chike \r\nEmail: ibehchike@gmail.com"
+

@@ -1,0 +1,19 @@
+          <section id="cookies" class="pt-page pt-page-6" data-id="cookies">
+            <div class="section-title-block">
+{% if header.resume.cookies.customtitle %}
+              <h2 class="section-title">{{header.resume.cookies.customtitle}}</h2>
+{% else %}
+              <h2 class="section-title">Cookies</h2>
+{% endif %}
+            </div>
+{% if header.resume.cookies.body %}
+            <div class="row">
+              <div class="col-sm-12 col-md-12">
+                <div class="cookies-text">
+                	{{header.resume.cookies.body|markdown}}
+                </div>
+              </div>
+            </div>
+{% endif %}
+
+          </section>

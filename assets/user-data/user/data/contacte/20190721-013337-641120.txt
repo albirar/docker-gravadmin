@@ -1,0 +1,5 @@
+nom: 5emmalopes@gmail.com
+cognoms: 5emmalopes@gmail.com
+email: 5emmalopes@gmail.com
+missatge: "Hello, \r\n \r\nI sent you a message earlier, but I have not received a response from you yet. \r\n \r\nSo, I am highly interested in writing an article for your website. I have a few topics in mind that are closely related to your website's content. If you are open for collaboration, do let me know so I can get them forwarded to you. \r\n \r\nPlease reply back to emilylopes5@outlook.com since my Gmail account may still be unconnected. \r\n \r\nKind Regards, \r\nEmily."
+

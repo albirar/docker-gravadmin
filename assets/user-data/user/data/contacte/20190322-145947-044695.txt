@@ -1,0 +1,5 @@
+nom: ameli.a1.9.8.6.g@gmail.com
+cognoms: ameli.a1.9.8.6.g@gmail.com
+email: ameli.a1.9.8.6.g@gmail.com
+missatge: " \r\n"
+

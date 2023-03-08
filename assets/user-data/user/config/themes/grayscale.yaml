@@ -1,0 +1,10 @@
+enabled: true
+color: gray
+dropdown:
+  enabled: true
+streams:
+  scheme:
+    theme:
+      type: ReadOnlyStream
+      paths:
+        - user/themes/grayscale

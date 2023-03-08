@@ -1,0 +1,5 @@
+nom: asdsad
+cognoms: wqewqewqe
+email: asdsad@pwopwoe.com
+missatge: "vvffsd\r\nsdf\r\ndsaf\r\ndfsa\r\n"
+

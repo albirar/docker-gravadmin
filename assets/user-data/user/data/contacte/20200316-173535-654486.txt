@@ -1,0 +1,5 @@
+nom: lending_people@letterboxes.org
+cognoms: lending_people@letterboxes.org
+email: lending_people@letterboxes.org
+missatge: "At the current time many lenders are withdrawing their lending books. We are not. \r\n \r\nWe are one of the UK's leading business loan providers. A few details: \r\n \r\nUnsecured business loans up to ?300k \r\nRates from just 3% \r\nNo early repayment charge \r\nSmall business specialist \r\n \r\nCheck if you qualify in a few seconds at http://www.lendingpeople.co.uk/"
+

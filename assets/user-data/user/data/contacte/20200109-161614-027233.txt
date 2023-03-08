@@ -1,0 +1,5 @@
+nom: grabthephone@europe.com
+cognoms: grabthephone@europe.com
+email: grabthephone@europe.com
+missatge: "Hi, \r\n \r\nI hope you are well. We provide a telephone answering service for companies in the UK. Our highly trained telephony advisers can handle all or some of your business calls from 8am til 8pm. \r\n \r\nThe best part? It can cost as little as ?99! We can assist with customer service, sales and reception calls. \r\n \r\nIf you'd like to find out more, please head on over to our website http://grabthephone.co.uk/ \r\n \r\nYours, \r\n \r\nJack Hopkins"
+

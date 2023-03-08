@@ -1,0 +1,29 @@
+title: Albirar
+default_lang: ca
+author:
+  name: 'Octavi Fornés'
+  email: webmaster@albirar.cat
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Software Architect, Fullstack designer & developer, Agile specialist'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
+links:
+  -
+    title: About
+    url: '#about'
+  -
+    title: Download
+    url: '#download'
+  -
+    title: Contact
+    url: '#contact'

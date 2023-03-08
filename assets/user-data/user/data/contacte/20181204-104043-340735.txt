@@ -1,0 +1,5 @@
+nom: asdsad
+cognoms: wqewqewq
+email: nbmnb@popo.com
+missatge: asdasdasdadsasd
+
